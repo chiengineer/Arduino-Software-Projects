@@ -1,4 +1,6 @@
 //if the current average is +200 outside of the current set value bump up brightness and reset fade out time
+/*
+
 enum side{
 	left,
 	right,
@@ -60,4 +62,4 @@ void loop(){
 	//System State - Set Right LED
 	
 }
-
+*/
